@@ -1,0 +1,60 @@
+[02-Sep-2015 22:17:28 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:19:43 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:19:43 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:19:43 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:19:43 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:31 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:33 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:34 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:36 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:36 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:37 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:38 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:38 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:39 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:20:49 UTC] PHP Warning:  Creating default object from empty value in /home/bpdevelopments6/public_html/wp-content/themes/alum/inc/customizer.php on line 562
+[02-Sep-2015 22:40:04 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:40:12 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/capabilities.php on line 1441
+[02-Sep-2015 22:41:02 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:41:07 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:41:12 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/capabilities.php on line 1441
+[02-Sep-2015 22:42:34 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:43:21 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:43:26 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:43:31 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:44:22 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:45:08 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:45:17 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 219
+[02-Sep-2015 22:45:22 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:26 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:45:30 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:30 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:30 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:32 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:34 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:45:34 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:49:28 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:50:28 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:51:58 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:52:01 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 219
+[02-Sep-2015 22:52:09 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 219
+[02-Sep-2015 22:53:50 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:01 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:08 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:21 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:35 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:53 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:54:58 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:55:26 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:55:36 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:56:20 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:56:43 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536
+[02-Sep-2015 22:56:50 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:53 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:54 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:54 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:54 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:55 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:55 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:55 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp-customize-manager.php on line 220
+[02-Sep-2015 22:56:57 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/bpdevelopments6/public_html/wp-includes/class-wp.php on line 536

@@ -1,0 +1,94 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Thu, 07 Jan 2016 03:04:49 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1aH7R3-001yLP-5V
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Thu, 07 Jan 2016 03:04:49 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.4.1 now available (security release)
+Date: Thu, 7 Jan 2016 03:04:49 -0700
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <981f493ce19f0adfcf1b65aa1754c112@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.22
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.4.1 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+Security
+* WordPress versions 4.4 and earlier are affected by a cross-site scripting vulnerability that could allow a site to be compromised. This was reported by Crtc4L.
+
+Highlights
+* Emoji support has been updated to include all of the latest emoji characters, including the new diverse emoji!
+* Some sites with older versions of OpenSSL installed were unable to communicate with other services provided through some plugins.
+* If a post URL was ever re-used, the site could redirect to the wrong post.
+
+Changelog
+* Administration: 34987 "Configure" link for dashboard widgets no longer displayed.
+* Administration: 35047 Notices are not moved to first header when header-elements are nested inside .wrap
+* Administration: 35057 bug in new default_hidden_columns filter
+* Administration: 35112 Screen Options in Appearance -&gt; Menu not saved correctly sometimes
+* Bootstrap/Load: 34967 SHORTINIT and date_i18n: Call to undefined function _x()
+* Bootstrap/Load: 35013 WP4.4 function handle_404 yelds a fatal error on line 613 when trying to clone $wp_query-&gt;post if it's not an object
+* Build/Test tools: 30787 Shrinkwrap NPM dependencies
+* Bundled Theme: 35270 Bump twentysixteen for 4.4.1
+* Canonical: 34890 Canonical meta tag for paginated posts incorrect with ugly permalinks
+* Comments: 34946 new comment redirects break anchors in Safari
+* Comments: 34997 preprocess_comment filter does not contain old user_ID field for user_id, instead it has new user_id field
+* Comments: 35006 Comments sent immediately to Trash for matching keyword blacklist should not generate email notifications
+* Comments: 35025 Performance regression in comments_template in 4.4
+* Comments: 35068 Comments not showing up when there are unapproved messages
+* Comments: 35175 Page parameter no longer works in wp_list_comments
+* Customize: 35081 Missing Change Theme button when there are only two themes available
+* Embeds: 35152 Remove Rdio embed support
+* Embeds: 35194 Remove embed discovery tags from HTML header of static home pages
+* Embeds: 35237 Invalid argument supplied for foreach() in /wp-includes/embed-template.php on line 54
+* Emoji: 33592 Unicode 8.0 Emoji
+* External Libraries: 34948 Update random_compat for "Don't instantiate COM if it's a disabled class"
+* Filesystem API: 34976 Plug ins fail to update after WP 4.4 installed
+* Formatting: 35008 Ampersands in URLs are no longer converted to entities
+* Formatting: 35058 PHP Fatal when map_deep tries to work on an object that has a property by reference
+* HTTP API: 34935 Removed SSL certificates causing errors in WP 4.4
+* Help/About: 35215 Setting help tab priorities fails to correctly order the tabs
+* Login/Registration: 34925 4.4 wp-login.php: no longer possible to use the login_post scheme
+* Login/Registration: 35103 login_url Filter is now applied to Login Form Action Attribute
+* Mail: 35212 Update PHPMailer to 5.2.14
+* Media: 35045 Responsive images not added when effective scheme differs from image src scheme
+* Media: 35101 image_default_link_type option not being respected
+* Media: 35102 Responsive images support for external URLs
+* Media: 35106 Responsive images break uploads with full path stored in metadata
+* Media: 35108 Responsive images blurry – srcset attribute doesn't include full size version
+* Media: 35153 Default link target for media files is none
+* Menus: 34446 WordPress Notice after add support for post type archives in menu
+* Menus: 34449 Remove CPT if exists menu item
+* Menus: 35107 wp_nav_menu outputs tags without line breaks in 4.4, causes strange bug with justified text
+* Permalinks: 35084 check for post status in get_page_uri causes issues with permalinks
+* Query: 35031 wp_old_slug_redirect() in 4.4 redirecting existing posts
+* Query: 35115 404 error when URL includes title=…
+* Shortcodes: 34939 Shortcode regex no longer matches [shortcode=XXX]
+* Taxonomy: 34723 Warning in get_the_terms() because of non-array
+* Taxonomy: 35089 Query var on non-public taxonomy remains boolean true since [35333]
+* Taxonomy: 35137 get_terms() with a meta_query filter returns duplicated terms
+* Taxonomy: 35156 wp_list_categories() does not accept comma-separated IDs for exclude_tree parameter
+* Taxonomy: 35180 In WordPress 4.4 the_tags() is displaying tags ordered by ID instead of alphabetically by name
+* Themes: 34962 Issues with wp_get_document_title function causing problems with document titles
+* Users: 34993 Deleting a user no longer asks what to do with their content
+* Widgets: 34978 Extra quotes in title in WP_Widget_RSS class, widget method
+* Widgets: 34995 WP_Widget::widget not called
+* XML-RPC: 35053 XML-RPC when post with date_created_gmt, its post_date will gmt date not local date
+* XML-RPC: 35185 Unable to create Post via XMLRPC after upgrading to 4.4
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

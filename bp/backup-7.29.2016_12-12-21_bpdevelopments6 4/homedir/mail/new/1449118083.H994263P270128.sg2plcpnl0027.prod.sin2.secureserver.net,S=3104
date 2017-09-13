@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Wed, 02 Dec 2015 21:48:03 -0700
+Received: from mailnull by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	id 1a4LoJ-0018Go-UL
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Wed, 02 Dec 2015 21:48:03 -0700
+X-Failed-Recipients: bpdevelopments22@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sg2plcpnl0027.prod.sin2.secureserver.net>
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1a4LoJ-0018Go-UL@sg2plcpnl0027.prod.sin2.secureserver.net>
+Date: Wed, 02 Dec 2015 21:48:03 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bpdevelopments22@gmail.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4LoIae8v4hahX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=T54sN6+Q c=1 sm=1 tr=0 p=Fpw1IiGDov0A:10 a=4UAA/MWOcpdBpQTG1Z4yfg==:117 a=TZb1taSUAAAA:8 a=pGLkceISAAAA:8 a=wIGUJSfFAAAA:8 a=4wmjpdE2AAAA:8 a=IkcTkHD0fZMA:10 a=v8jmk-h-sY8A:10 a=Qserh2zL7CsA:10 a=wUQvQvOEmiQA:10 a=sHUDNF_yAAAA:8 a=e2zJ7Sx0bTI-vsl1g3gA:9 a=QEXdDO2ut3YA:10 a=L8EizJhBUN0A:10 a=iPMSxlqkJfsA:10 ::
+    100.00
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>
+Received: from bpdevelopments6 by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1a4LoI-0018GN-4x
+	for bpdevelopments22@gmail.com; Wed, 02 Dec 2015 21:48:02 -0700
+To: bpdevelopments22@gmail.com
+Subject: Sandra
+X-PHP-Script: bpdevelopments6.com/index.php for 172.245.124.196
+Date: Thu, 3 Dec 2015 04:48:02 +0000
+From: Sandra <bpdevelopments22@gmail.com>
+Message-ID: <dc316c95e05e06c0c8a0b2f468fc6271@bpdevelopments6.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+Reply-To: wfvnkmscbl@sskdolek.net
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Sandra 
+
+Email: wfvnkmscbl@sskdolek.net 
+
+ Subject: Sandra 
+
+ Message: Hi my name is Sandra and I just wanted to drop you a quick note here instead of calling you. I came to your B&P Developments - The Forefront Of Innovation page and noticed you could have a lot more traffic. I have found that the key to running a popular website is making sure the visitors you are getting are interested in your subject matter. There is a company that you can get targeted visitors from and they let you try the service for free for 7 days. I managed to get over 300 targeted visitors to day to my site. Check it out here: http://www.arvut.org/1/dft
+

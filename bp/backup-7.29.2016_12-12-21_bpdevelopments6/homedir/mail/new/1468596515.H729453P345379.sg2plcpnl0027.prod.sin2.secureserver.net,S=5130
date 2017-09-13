@@ -1,0 +1,86 @@
+Return-path: <>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Fri, 15 Jul 2016 08:28:35 -0700
+Received: from mailnull by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.87)
+	id 1bO52Z-001RqY-IR
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Fri, 15 Jul 2016 08:28:35 -0700
+X-Failed-Recipients: bpdevelopments22@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sg2plcpnl0027.prod.sin2.secureserver.net>
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1468596515-eximdsn-272846877
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bO52Z-001RqY-IR@sg2plcpnl0027.prod.sin2.secureserver.net>
+Date: Fri, 15 Jul 2016 08:28:35 -0700
+
+--1468596515-eximdsn-272846877
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bpdevelopments22@gmail.com
+    host sg2nlshrout-v02.shr.prod.sin2.secureserver.net [182.50.132.241]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 O52NboWlKqhEx :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=fa8NsxkF c=1 sm=1 tr=0 p=qiKHzh6LYmz8MMcP04YA:9 a=4UAA/MWOcpdBpQTG1Z4yfg==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=CvRyQWSw0uUA:10 a=IkcTkHD0fZMA:10 a=v8jmk-h-sY8A:10 a=Qserh2zL7CsA:10 a=cAmyUtKerLwA:10 a=ANj63CBEE-0A:10 a=pGLkceISAAAA:8 a=fu-yt9g4AAAA:8 a=QEXdDO2ut3YA:10 a=FMjsjKppBCYA:10 a=NWVoK91CQyQA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=Bio3VZ3YRj3GjmIEku71:22 ::
+    100.00
+
+--1468596515-eximdsn-272846877
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sg2plcpnl0027.prod.sin2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;bpdevelopments22@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; sg2nlshrout-v02.shr.prod.sin2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 O52NboWlKqhEx :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.1 cv=fa8NsxkF c=1 sm=1 tr=0 p=qiKHzh6LYmz8MMcP04YA:9 a=4UAA/MWOcpdBpQTG1Z4yfg==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=CvRyQWSw0uUA:10 a=IkcTkHD0fZMA:10 a=v8jmk-h-sY8A:10 a=Qserh2zL7CsA:10 a=cAmyUtKerLwA:10 a=ANj63CBEE-0A:10 a=pGLkceISAAAA:8 a=fu-yt9g4AAAA:8 a=QEXdDO2ut3YA:10 a=FMjsjKppBCYA:10 a=NWVoK91CQyQA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=Bio3VZ3YRj3GjmIEku71:22 :: 100.00
+
+--1468596515-eximdsn-272846877
+Content-type: message/rfc822
+
+Return-path: <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>
+Received: from bpdevelopments6 by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.87)
+	(envelope-from <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1bO52Z-001RqK-Cv
+	for bpdevelopments22@gmail.com; Fri, 15 Jul 2016 08:28:35 -0700
+To: bpdevelopments22@gmail.com
+Subject: seo
+X-PHP-Script: bpdevelopments6.com/index.php for 107.172.192.103
+Date: Fri, 15 Jul 2016 15:28:35 +0000
+From: seo <bpdevelopments22@gmail.com>
+Message-ID: <522bb0785c6a7f32c93d72716d876f9c@bpdevelopments6.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+Reply-To: cvbjcjt@gmail.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: seo =0A=0AEmail: cvbjcjt@gmail.com =0A=0A Subject: seo =0A=0A Message=
+: Hello Web Admin, I noticed that your On-Page SEO is is missing a few fact=
+ors, for one you do not use all three H tags in your post, also I notice th=
+at you are not using bold or italics properly in your SEO optimization. On-=
+Page SEO means more now than ever since the new Google update: Panda. No lo=
+nger are backlinks and simply pinging or sending out a RSS feed the key to =
+getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So wha=
+t is good On-Page SEO?First your keyword must appear in the title.Then it m=
+ust appear in the URL.You have to optimize your keyword and make sure that =
+it has a nice keyword density of 3-5% in your article with relevant LSI (La=
+tent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your a=
+rticle.Your Keyword should appear in your first paragraph and in the last s=
+entence of the page. You should have relevant usage of Bold and italics of =
+your keyword.There should be one internal link to a page on your blog and y=
+ou should have one image with an alt tag that has your keyword....wait ther=
+e's even more Now what if i told you there was a simple Wordpress plugin th=
+at does all the On-Page SEO, and automatically for you? That's right AUTOMA=
+TICALLY, just watch this 4minute video for more information at. <a href=3D"=
+http://www.SEORankingLinks.us">Seo Plugin</a>
+seo http://www.SEORankingLinks.us/
+
+--1468596515-eximdsn-272846877--

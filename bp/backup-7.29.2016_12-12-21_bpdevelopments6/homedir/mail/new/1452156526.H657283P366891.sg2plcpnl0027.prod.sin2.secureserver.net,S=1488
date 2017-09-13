@@ -1,0 +1,29 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Thu, 07 Jan 2016 01:48:46 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1aH6FS-001XRV-J9
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Thu, 07 Jan 2016 01:48:46 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] B&P Developments backup now available
+Date: Thu, 7 Jan 2016 01:48:46 -0700
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <7c5cd9b1856a49e8ca6c93017e279ebf@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.22
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for B&P Developments located at http://bpdevelopments6.com has succeeded.
+
+/home/bpdevelopments6/application_backups/app_bpdevelopments6-com_B-P-Developments_2016-01-07_01-48-22.tar.gz
+Backup size: 37.1MB
+
+To use this backup, login to your web hosting control panel and navigate to the Installatron tool.
+
+End of report.
+

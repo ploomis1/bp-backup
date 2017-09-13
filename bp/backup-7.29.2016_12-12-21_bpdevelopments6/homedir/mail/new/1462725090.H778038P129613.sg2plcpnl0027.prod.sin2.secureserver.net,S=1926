@@ -1,0 +1,33 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Sun, 08 May 2016 09:31:30 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85_1)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1azRcA-000XiR-NF
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Sun, 08 May 2016 09:31:30 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.5.2 now available (security release)
+Date: Sun, 8 May 2016 10:31:30 -0600
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <bd2dea6edd2a6e99123445948448473e@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.24
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.5.2 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+WordPress versions 4.5.1 and earlier are affected by a SOME vulnerability through Plupload, the third-party library WordPress uses for uploading files. WordPress versions 4.2 through 4.5.1 are vulnerable to reflected XSS using specially crafted URIs through MediaElement.js, the third-party library used for media players. MediaElement.js and Plupload have also released updates fixing these issues.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

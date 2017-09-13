@@ -1,0 +1,12 @@
+--- 
+__version: '2.1'
+bpdevelopments6.com: 
+  account_count: 1
+  accounts: 
+    forefront: 
+      disk_mtime: '1462823928'
+      diskquota: 262144000
+      diskused: 0
+  disk_mtime: '1462823928'
+  passwd_mtime: '1462823928'
+  quota_mtime: '1462823928'

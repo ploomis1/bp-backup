@@ -1,0 +1,40 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Wed, 22 Jun 2016 03:13:14 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85_1)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1bFf9m-003cMj-9X
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Wed, 22 Jun 2016 03:13:14 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.5.3 now available (security release)
+Date: Wed, 22 Jun 2016 04:13:14 -0600
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <398e2da392c425d6c2d0ac546d823f54@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.24
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.5.3 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+Security
+* Redirect bypass in the customizer, reported by Yassine Aboukir.
+* Two different XSS problems via attachment names, reported by Jouko Pynnönen and Divyesh Prajapati.
+* Revision history information disclosure, reported independently by John Blackbourn from the WordPress security team and by Dan Moen.
+* oEmbed denial of service reported by Jennifer Dodd from Automatic.
+* Unauthorized category removal from a post, reported by David Herrera from Alley Interactive.
+* Password change via stolen cookie, reported by Michael Adams from the WordPress security team.
+* Less secure sanitize_file_name edge cases reported by Peter Westwood of  the WordPress security team.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

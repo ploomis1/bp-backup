@@ -1,0 +1,47 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Sat, 30 Apr 2016 09:39:42 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85_1)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1awXvi-0006wQ-5z
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Sat, 30 Apr 2016 09:39:42 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.5.1 now available
+Date: Sat, 30 Apr 2016 10:39:42 -0600
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <7b66b75b64bf33e4bf1c5e15579618e0@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.24
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.5.1  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+This release fixes 12 bugs, chief among them a singular class issue that broke sites based on the Twenty Eleven theme, an incompatibility between certain Chrome versions and the visual editor, and an Imagick bug that could break media uploads.
+
+Changelog
+* Build/Test Tools: #36498 Shrinkwrap npm dependencies for 4.5
+* Bundled Theme: #36510 Twenty eleven page templates with widgets incorrectly styled
+* Customize: #36457 Customizer Device Preview: Use px units for tablet preview size
+* Database: #36629 Database connect functions can cause un-catchable warnings
+* Editor: #36458 Fix support for Safari + VoiceOver when editing inline links
+* Emoji: #36604 Emoji skin tone support test incorrectly passing in Chrome
+* Feeds: #36620 Feeds using an rss-http content type are now served as application/octet-stream
+* Media: #36501 Fatal error: Undefined class constant 'ALPHACHANNEL_UNDEFINED'
+* Media: #36578 wp_ajax_send_attachment_to_editor() bug
+* Media: #36621 Don't cache the results of wp_mkdir_p() in a persistent cache
+* Rewrite Rules: #36506 Duplicate directives in web.config after WordPress 4.5 installation on Windows
+* TinyMCE: #36545 WordPress TinyMCE toolbar/tabs unresponsive in Chrome Version 50.0.2661.75 beta-m (64-bit)
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

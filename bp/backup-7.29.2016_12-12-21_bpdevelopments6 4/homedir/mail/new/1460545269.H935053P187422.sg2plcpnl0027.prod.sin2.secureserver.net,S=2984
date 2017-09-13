@@ -1,0 +1,46 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Wed, 13 Apr 2016 04:01:09 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85_1)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1aqIXl-000mkp-QC
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Wed, 13 Apr 2016 04:01:09 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.5 now available (major version)
+Date: Wed, 13 Apr 2016 05:01:09 -0600
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <86dff423f076aa77a4e134d9c2e1edfc@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.24
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.5 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+New features in 4.5 help streamline your workflow, whether you're writing or building your site.
+
+Editing Improvements
+* Inline Linking: Stay focused on your writing with a less distracting interface that keeps you in place and allows you to easily link to your content.
+* Formatting Shortcuts: Do you enjoy using formatting shortcuts for lists and headings? Now they're even more useful, with horizontal lines and &lt;code&gt;.
+* Live Responsive Previews: Make sure your site looks great on all screens! Preview mobile, tablet, and desktop views directly in the customizer.
+* Custom Logos: Themes can now support logos for your business or brand. Try it out with Twenty Sixteen and Twenty Fifteen in the Site Identity section of the customizer.
+
+Under the Hood
+* Smart Image Resizing: Generated images now load up to 50% faster with no noticeable quality loss. It's really cool.
+* Selective Refresh: The customizer now supports a comprehensive framework for rendering parts of the preview without rewriting your PHP code in JavaScript.
+* Script Loader Improvements: Better support has been added for script header/footer dependencies. New wp_add_inline_script() enables adding extra code to registered scripts.
+* Better Embed Templates: Embed templates have been split into parts and can be directly overridden by themes via the template hierarchy.
+* JavaScript Library Updates: jQuery 1.12.3, jQuery Migrate 1.4.0, Backbone 1.2.3, and Underscore 1.8.3 are bundled.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

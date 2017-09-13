@@ -1,0 +1,70 @@
+Return-path: <>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Tue, 29 Sep 2015 12:27:22 -0700
+Received: from mailnull by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	id 1Zh0Yc-003LkE-4M
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Tue, 29 Sep 2015 12:27:22 -0700
+X-Failed-Recipients: bpdevelopments22@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sg2plcpnl0027.prod.sin2.secureserver.net>
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Zh0Yc-003LkE-4M@sg2plcpnl0027.prod.sin2.secureserver.net>
+Date: Tue, 29 Sep 2015 12:27:22 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bpdevelopments22@gmail.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 h0YaZqBZm9ayB :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=G93WaYQ5 c=1 sm=1 tr=0 p=tnezex0_SlUA:10 a=4UAA/MWOcpdBpQTG1Z4yfg==:117 a=TZb1taSUAAAA:8 a=wIGUJSfFAAAA:8 a=-jz1wM3FAAAA:8 a=IkcTkHD0fZMA:10 a=v8jmk-h-sY8A:10 a=Qserh2zL7CsA:10 a=ff-B7xzCdYMA:10 a=D0LGXiHZMSebGChOM-EA:9 a=lJSDDsqs--rIQyjs:21 a=8npuJEZRxspjNhFT:21 a=QEXdDO2ut3YA:10 a=f7EcK8EQntIA:10 ::
+    100.00
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>
+Received: from bpdevelopments6 by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1Zh0Ya-003Ljs-Bv
+	for bpdevelopments22@gmail.com; Tue, 29 Sep 2015 12:27:20 -0700
+To: bpdevelopments22@gmail.com
+Subject: To B&P Developments
+X-PHP-Script: bpdevelopments6.com/index.php for 207.244.77.1
+Date: Tue, 29 Sep 2015 19:27:20 +0000
+From: Ivar Matheo <wordpress@bpdevelopments6.com>
+Message-ID: <8718ad7f4af8b14dc463f7a9583897c0@bpdevelopments6.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+Reply-To: "Ivar Matheo" <ivar.matheo@bbmi.biz>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Ivar Matheo
+Email: ivar.matheo@bbmi.biz
+Comment: Dear Sir/Madam,
+
+I'm Mr Ivar Mathéo from BMS BURE MULTI INVESTMENT, Norway.  I'm contacting you on behalf of my company. We finance projects/businesses and we seeking for US clients in need of financing.
+
+If interested kindly contact us at the details below
+
+
+Ivar Mathéo
+Director FOreign Investment
+BMS BURE MULTI INVESTMENT SERVICE
+Address: STENFELTSKOGEN 39, LANGHUS, 1405, NORWAY.
+Tel:+47 21 95 4551 (DIRECT NUMBER)
+Fax:+ 47 21 62 4766
+Email: ivar.matheo@bbmi.biz
+Website: www.bbmi.biz
+
+Time: September 29, 2015 at 7:27 pm
+IP Address: 207.244.77.1
+Contact Form URL: http://bpdevelopments6.com/contact-us/
+Sent by an unverified visitor to your site.
+

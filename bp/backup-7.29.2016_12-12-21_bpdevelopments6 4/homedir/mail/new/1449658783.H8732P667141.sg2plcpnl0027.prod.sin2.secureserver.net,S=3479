@@ -1,0 +1,47 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Wed, 09 Dec 2015 03:59:43 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1a6cTG-002nYE-TY
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Wed, 09 Dec 2015 03:59:42 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.4 now available (major version)
+Date: Wed, 9 Dec 2015 03:59:42 -0700
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <e171a0ebcf22537e78707deb25292dcc@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.21
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.4 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+New features in WordPress 4.4 make your site more connected and responsive, and a new default theme is introduced, Twenty Sixteen.
+
+Highlights
+* New Default Theme - Twenty Sixteen: Modern take on the classic blog design
+* New Default Theme - Twenty Sixteen: Flexible header and fun color schemes will make your content shine
+* New Default Theme - Twenty Sixteen: Mobile-first and responsive
+* Responsive images: WordPress now takes a smarter approach to displaying appropriate image sizes on any device, ensuring a perfect fit every time. You don’t need to do anything to your theme, it just works.
+* Embed your WordPress content: Now you can embed your posts on other sites, even other WordPress sites. Simply drop a post URL into the editor and see an instant embed preview, complete with the title, excerpt, and featured image if you’ve set one. We’ll even include your site icon and links for comments and sharing.
+* Even more embed providers: In addition to post embeds, WordPress 4.4 also adds support for five new oEmbed providers: Cloudup, Reddit Comments, ReverbNation, Speaker Deck, and VideoPress.
+
+For Developers
+* REST API infrastructure: Infrastructure for the REST API has been integrated into core, the first part of a multi-stage rollout. Inclusion of core endpoints is targeted for an upcoming release. To get a sneak peek of the core endpoints, and for more information on extending the REST API, check out the official WordPress REST API plugin.
+* Term meta: Terms now support metadata, just like posts. See add_term_meta(), get_term_meta(), and update_term_meta() for more information.
+* Comment query improvements: Comment queries now have cache handling to improve performance. New arguments in WP_Comment_Query make crafting robust comment queries simpler.
+* Term, comment, and network objects: New WP_Term, WP_Comment, and WP_Network objects make interacting with terms, comments, and networks more predictable and intuitive in code.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

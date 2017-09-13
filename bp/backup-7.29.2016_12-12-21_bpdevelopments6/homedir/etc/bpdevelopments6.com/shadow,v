@@ -1,0 +1,68 @@
+head	1.4;
+access;
+symbols;
+locks
+	bpdevelopments6:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2015.09.09.22.29.15;	author bpdevelopments6;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.09.09.22.27.43;	author bpdevelopments6;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.09.09.22.27.09;	author bpdevelopments6;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.09.09.22.27.08;	author bpdevelopments6;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@forefront:$6$eERBJSo5dw8Skb6U$ZpDSgIj51C4MrQolq/TdCrNPPO9vN6wFwh9eifKSK.PVZqfGCt/tFApkFmHX8eCOVppEq6g9SOBtNBDlDnwGW.:16687::::::
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+forefront:$6$hwPvxSaqHOrY2hnL$9POv7RRSYgRbclxxUcVnc22rzAef7HvFUv3iiYaiOAe00gsduBfRYbxzbOpO/gXHb.PIyiGrhsYPsj9RyxpoB.:16687::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

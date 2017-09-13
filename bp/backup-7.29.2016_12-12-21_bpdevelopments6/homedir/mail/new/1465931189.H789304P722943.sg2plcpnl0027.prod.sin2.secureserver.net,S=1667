@@ -1,0 +1,27 @@
+Return-path: <>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Tue, 14 Jun 2016 12:06:29 -0700
+Received: from mailnull by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85_1)
+	id 1bCtfR-00324G-Jp
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Tue, 14 Jun 2016 12:06:29 -0700
+X-Failed-Recipients: bpdevelopments22@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sg2plcpnl0027.prod.sin2.secureserver.net>
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bCtfR-00324G-Jp@sg2plcpnl0027.prod.sin2.secureserver.net>
+Date: Tue, 14 Jun 2016 12:06:29 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bpdevelopments22@gmail.com
+    host sg2nlshrout-v02.shr.prod.sin2.secureserver.net [182.50.132.241]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 CtfRbUqQ6wF3T :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=GOSoar5K c=1 sm=1 tr=0 p=fu-yt9g4AAAA:8 p=qiKHzh6LYmz8MMcP04YA:9 a=4UAA/MWOcpdBpQTG1Z4yfg==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=0sVvxVB5wY0A:10 a=IkcTkHD0fZMA:10 a=v8jmk-h-sY8A:10 a=Qserh2zL7CsA:10 a=pD_ry4oyNxEA:10 a=kNcTQWfM0KEA:10 a=pGLkceISAAAA:8 a=QEXdDO2ut3YA:10 a=BV_WPXKZv0MA:10 a=NWVoK91CQyQA:10 a=Bio3VZ3YRj3GjmIEku71:22 a=6kGIvZw6iX1k4Y-7sg4_:22 ::
+    100.00
+

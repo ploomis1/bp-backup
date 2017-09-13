@@ -1,0 +1,40 @@
+Return-path: <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>
+Envelope-to: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Delivery-date: Wed, 03 Feb 2016 20:45:52 -0700
+Received: from root by sg2plcpnl0027.prod.sin2.secureserver.net with local (Exim 4.85)
+	(envelope-from <noreply@sg2plcpnl0027.prod.sin2.secureserver.net>)
+	id 1aRArg-000i8D-99
+	for bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net; Wed, 03 Feb 2016 20:45:52 -0700
+To: bpdevelopments6@sg2plcpnl0027.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.4.2 now available (security release)
+Date: Wed, 3 Feb 2016 20:45:52 -0700
+From: noreply@sg2plcpnl0027.prod.sin2.secureserver.net
+Message-ID: <79235edf8529e469693900d2858e0b4a@sg2plcpnl0027.prod.sin2.secureserver.net>
+X-Priority: 3
+X-Mailer: Installatron Plugin 9.1.22
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.4.2 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://bpdevelopments6.com
+
+
+The changes for this version are:
+
+Security
+* WordPress versions 4.4.1 and earlier are affected by two security issues: a possible XSS for certain local URIs, reported by Ronni Skansing; and an open redirection attack, reported by Shailesh Suthar.
+
+Highlights
+* wp_list_comments ignores $comments parameter
+* 4.4 Regression on Querying for Comments by Multiple Post Fields
+* Pagination issue on front page after 4.4.1
+* ModSecurity2 blocks Potential Obfuscated JavaScript in outbound anomaly
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+
